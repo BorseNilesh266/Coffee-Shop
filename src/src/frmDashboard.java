@@ -943,6 +943,7 @@ public class frmDashboard extends javax.swing.JFrame {
         // TODO add your handling code here:
         
         new frm_Login().setVisible(true);
+        JOptionPane.showMessageDialog(this,"Log out Sucessfully");
         this.dispose();
     }//GEN-LAST:event_lbl_Login3MouseClicked
 
